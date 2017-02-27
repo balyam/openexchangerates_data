@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["balyam"]
   spec.email         = ["bolatumarov@gmail.com"]
 
-  spec.summary       = %q{A Ruby wrapper to the Openexchangerates API.}  
-  spec.homepage      = "https://docs.openexchangerates.org/"
+  spec.summary       = %q{A Ruby wrapper for Openexchangerates API.}  
+  spec.homepage      = "https://github.com/balyam/openexchangerates_data"
   spec.license       = "MIT"
 
   
